@@ -90,6 +90,14 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@react-native-solutions/react-native-keyboard-aware-scroll-view@^0.9.2":
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/@react-native-solutions/react-native-keyboard-aware-scroll-view/-/react-native-keyboard-aware-scroll-view-0.9.2.tgz#2270705a4ac50c6a883ea12a12320d1d3a24f460"
+  integrity sha512-5YCiRW/70OcFvvBuvdvGKYSZ3jGAZKfKI9GDBhvefXsBQS3japh5JYR+aekylbQBVohrNU8oQ3dhfAlOjMUzJQ==
+  dependencies:
+    prop-types "^15.6.2"
+    react-native-iphone-x-helper "^1.0.3"
+
 acorn-jsx@^5.0.0:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.0.1.tgz#32a064fd925429216a09b141102bfdd185fae40e"
